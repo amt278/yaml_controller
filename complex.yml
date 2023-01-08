@@ -1,0 +1,7 @@
+address: &address
+  street: street_name
+  city: city_name
+
+person1:
+  name: sam
+  address: *address

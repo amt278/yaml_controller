@@ -1,0 +1,16 @@
+key: value
+
+list:
+  - i1
+  - i2
+  - i3
+
+dict:
+  k1: v1
+  k2: v2
+
+
+multi-line-str:
+  hi
+  line2
+  line3
